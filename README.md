@@ -26,12 +26,12 @@ This project offers a captivating 3D web application that presents insightful na
 
 
 1. **Clone the Repository**:
-```git clone https://github.com/yourusername/yourrepository.git```
+```git clone https://github.com/ElonMusk2002/3d-presentation-template.git```
 
 2. **Install Dependencies**:
 Navigate to the project directory and install the necessary dependencies.
 
-```cd yourrepository```
+```cd 3d-presentation-template```
 ```npm install```
 
 
